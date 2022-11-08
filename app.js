@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let person = {};
 
 play(); 
@@ -86,3 +87,5 @@ function error() {
     window.alert("Goodbye");
 }
 
+=======
+>>>>>>> cd115b176a08a46496b580d55742ef554c1dab88
